@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweet magia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<span>
+<body>
+    <header class="cabecalho"> 
+        <img class="cabecalho-imagem" src="./logo.jpg"alt="logo da loja">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Produtos</a></li>
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Contato</a></li>
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Pagamentos</a></li>
+        </ul>
+    </header>
+
+
+    <section id="loja1">
+        <div class="loja-div-imagem">
+            <h2 class="loja-titulo">Sweet Magia</h2>
+            <p class="loja-texto">Sweet Magia é uma confeitaria feita em casa.</p>
+            <p class="loja-texto">Possuimos diversos tipos de produtos; Bolos por encomenda, massas, cookies, salgados, entre outros.</p>
+            <p class="loja-texto">A loja possui também diversos produtos inspirados em filmes, series e livros.</p>
+            <p class="loja-texto">Temos um compromisso com nossos clientes e esperamos trazer a melhor experiencia e qualidade para todos <3.</p>
+             
+        </div>SWEET MAGIA
+        <img class="loja-imagem" src="./interior.jpg" alt="imagem que representa a loja">
+    </section>
+
+    <section id="loja2">
+        <div class="aparelhos-div-imagem">
+            <h3 class="aparelhos-titulo">Alguns de nossos produtos</h3>
+            <h4 class="aparelhos-titulo1">Bolos inspirados em filmes</h4>
+          
+
+        </div>
+    </section>
+    <section id="loja3">
+        <div class="aparelhos-div-imagem">
+            <h7 class="nome bolo-titulo">Bolo inspirado no filme "Maria Antonieta" da Sophia Coppola</h7>
+            <p class="aparelhos-texto">
+            <img class="Bolo-imagem" src="./bolo.jpeg" alt="imagem que representa o bolo">
+           
+        </div>
+    </section>
+
+    </section>
+    <section id="loja3">
+        <div class="aparelhos-div-imagem">
+            <h7 class="aparelho-titulo1">Bolo no pais das maravilhas</h7>
+            <p class="aparelhos-texto">
+            <img class="alice-imagem" src="./bolo alice.jpg" alt="imagem que representa o bolo da alice">
+           
+        </div>
+    </section>
+
+    <footer class="rodape">
+        <h8 class="nome-loja"> Sweet Magia</h8>;
+    </footer>
+
+</body>
+</html>
